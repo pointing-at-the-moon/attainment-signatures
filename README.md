@@ -17,7 +17,7 @@
 | 2 | 菩薩自在 | Bodhisattva's Mastery | [`bodhisattva/`](./bodhisattva/) | 🔲 Forthcoming |
 | 3 | 如來自在 | Tathāgata's Mastery | [`tathagata/`](./tathagata/) | 🔲 Forthcoming |
 
-> **狀態說明**:此系列為長期規劃軸,尚未開筆。各自在的「部 / 篇」細目由作者依義理逐步開展;本 README 僅釘定**已定案的分區順序與命名**(2026-06-04)。每分區的公開真實狀態以其目錄 README 為準。
+> **狀態說明**:各自在的「部 / 篇」細目由作者依義理逐步開展、隨寫隨開;本 README 釘定**已定案的分區順序與命名**(2026-06-04)。每分區的真實進度以其目錄 README 為準。
 
 ### 與其他三軸的接縫 / Seams with the other axes
 
