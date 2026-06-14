@@ -1,0 +1,9 @@
+# Part Three · The Embrace
+
+Part Two said the six perfections are the shape of the bodhisattva's mastery, and that one of their faces is "the hand reaching toward others"—giving benefits beings, morality does not harm them, patience bears their abuse, vigour nurtures their good. This part draws that hand closer and looks at it nearer.
+
+The six embrace both self-benefit and other-benefit: one and the same giving amasses one's own merit and benefits beings, one act with two yields. But "how to gather a being in and lead him onto the path" is a craft of its own—it needs a set devised purely toward beings. The canon sets one up: the four embraces—giving, kind speech, beneficial conduct, and shared work. This part has a single chapter, devoted to these four; it says they are the *purely other-benefiting* shape of the bodhisattva's mastery.
+
+But what this part means to establish is not just the description "the four are the shape of altruism," but a weightier sentence: **altruism is mastery.** This needs clearing up first, lest it be misread. It does not say "the bodhisattva first wins a mastery elsewhere—in meditation, say, or in severing defilements—and then brings that mastery out to do altruistic good," as if mastery were capital stored within and altruism the spending of it. This part says the reverse: the bodhisattva's mastery is visible, and verifiable, precisely *within* the relationship of embracing beings—apart from that relationship there is nowhere to point and name his mastery. So not "having mastery, he can therefore benefit others," but "the relationship of benefiting others is the very place the mastery shows itself."
+
+The hinge of this chapter is the fourth of the four—"shared work." See into shared work, and "altruism is mastery" comes down to the ground. In we go.

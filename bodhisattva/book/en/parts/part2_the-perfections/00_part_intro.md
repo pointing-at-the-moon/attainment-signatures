@@ -1,0 +1,9 @@
+# Part Two · The Six and Ten Perfections
+
+Part One set up the ground and the ruler of the bodhisattva's mastery: signed in the vow, not the fruit; measured by amassing, not by severing. But "amassing the two provisions" was still empty—merit and wisdom are two names, and names cannot be amassed; what can be amassed are deeds, done and done again. This part fills that empty word "amass" with concrete deeds.
+
+The shape the canon gives the two provisions to take hold of is called the six perfections—giving, morality, patience, vigour, meditation, and wisdom; and above the six the treatises open out a tenfold set, adding skillful means, vow, power, and knowledge. Two chapters here: the first says how the six are the *shape* of the bodhisattva's mastery, and not six unrelated good deeds; the second says what the four added perfections are, and how the ten disclose themselves ground by ground along the ten grounds.
+
+The hinge of this part must be set out first, to forestall a misreading. The six perfections are most easily read as "six things worth doing"—a list exhorting goodness, no different from the generosity, rule-keeping, and patience the world already prizes. Read so, the six lose their thread to "the bodhisattva's mastery." This part reconnects the thread: what makes the six "perfections"—*pāramitā*, crossing to the far shore—and not merely goods of this shore turns on two things. One, prajñā is their guide: apart from prajñā the five are like blind men with no one to lead them, only bounded worldly goods; with prajñā guiding, they "cross over" into mastery. Two, from the first they face toward beings: giving is giving to others, patience is patience with others—the mastery is legible in how it benefits beings. With these two, the six are *one shape of mastery*, not six scattered virtues.
+
+Into the first chapter: how are the six the shape of the bodhisattva's mastery, and not just six good things?
