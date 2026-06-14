@@ -14,7 +14,7 @@
 | # | 自在 | Division | 目錄 | 狀態 |
 |---|------|----------|------|------|
 | 1 | 阿羅漢自在 | Arhat's Mastery | [`arhat/`](./arhat/) | ✅ Complete (P01–P08) |
-| 2 | 菩薩自在 | Bodhisattva's Mastery | [`bodhisattva/`](./bodhisattva/) | ✅ Complete (P01–P10) |
+| 2 | 菩薩自在 | Bodhisattva's Mastery | [`bodhisattva/`](./bodhisattva/) | ✅ Complete (P01–P10 ＋ 成書 book) |
 | 3 | 如來自在 | Tathāgata's Mastery | [`tathagata/`](./tathagata/) | ✅ Complete (P01–P10) |
 
 > **狀態說明**:各自在的「部 / 篇」細目由作者依義理逐步開展、隨寫隨開;本 README 釘定**已定案的分區順序與命名**(2026-06-04)。每分區的真實進度以其目錄 README 為準。

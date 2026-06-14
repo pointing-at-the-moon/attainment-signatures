@@ -7,7 +7,7 @@
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: ✅ **Complete** — P01–P10 全十篇成稿（六部），bilingual（中文 / English）。本分區為證軸第 2 分區（菩薩自在·二資糧無量）。
+- **Status**: ✅ **Complete** — P01–P10 全十篇成稿（六部）＋成書單行本（bilingual），中文 / English。本分區為證軸第 2 分區（菩薩自在·二資糧無量）。
 
 ### Published Papers
 
@@ -33,6 +33,13 @@
 - **P09** [無住處涅槃義](./papers/part6_the-refused-rest/P09_無住處涅槃義.md) / [The Meaning of Non Abiding Nirvana](./papers/part6_the-refused-rest/P09_the-meaning-of-non-abiding-nirvana.md)
 - **P10** [菩薩自在與阿羅漢自在終極分判](./papers/part6_the-refused-rest/P10_菩薩自在與阿羅漢自在終極分判.md) / [The Ultimate Discrimination](./papers/part6_the-refused-rest/P10_the-ultimate-discrimination.md)
 
+
+### Book Edition · 成書《菩薩自在》
+
+降階改寫自 P01–P10 的單行本（非論文再裝訂），bilingual（中文 / English），收於 [`book/`](./book/)：總序、導讀地圖、六部書章（十章）、五座過渡、附錄 A（學術腳註索引）／C（名相對照）。
+
+- **中文** — [`book/`](./book/)：[總序](./book/00_總序.md) · [導讀地圖](./book/00_導讀地圖.md)
+- **English** — [`book/en/`](./book/en/)：[Preface](./book/en/00_preface.md) · [Reading Map](./book/en/00_reading-map.md)
 
 ---
 
