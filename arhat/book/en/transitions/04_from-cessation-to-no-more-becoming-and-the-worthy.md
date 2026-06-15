@@ -1,0 +1,13 @@
+# Transition Four · From Cessation to No-More-Becoming and the Worthy
+
+Part Four is walked; take the inventory.
+
+The attainment of cessation, summit of the meditative art: the activities of body, speech, and mind all ceased, while vitality and warmth do not depart and the faculties stay unbroken — the limit of stilling, and not death. Deeper than the non-perception attainment (perception and knowing both ceased), yet never sunk into annihilation. The worldling dreads it as death and dares not enter; only one who has seen non-self can understand it as nirvāṇa here and now and go in without fear. And the criterion of the both-ways liberation turns out to be not "whether one has been in," but "mastery over arising and ceasing" — able to sink, able to surface. This is the deepest impression the meditative mastery leaves. Yet the Aśvajit discourse divides without mercy: one who bodily touches the eight liberations while wisdom has not seen the taints exhausted is named only a body-witness — the deepest concentration cannot do wisdom's severing for it. However deep the impression, what it stamps is still the exhaustion.
+
+With this, the inward faces of the mastery have all been seen: the substance (the two liberations, the unshakable as floor), the knowing (one pivot among the six powers), the depth (cessation, sovereignty in arising and ceasing). Two faces remain — and they are the two poles, one inward to the last, one outward to the last.
+
+One faces death. The question that surfaced at Part Four's close is the one the world most loves to ask: the arhat attests "no further becoming" — then after death, does he exist, or not? In the canon this was put to an arhat's face, and served on the Blessed One himself as an ultimatum. His response is unexpected: all four forms of the question left unanswered, declared "the set-aside" — and yet with the plain statement, "not from not knowing, not from not seeing." Knowing, and not answering? The first chapter of Part Five settles this account: why, for this question, the not-answering is the right answer — and what the four words "no further becoming" do, and do not, bring to a close.
+
+One faces the world. Can the world's eye see an inward liberation at all? The canon gives the arhat an utterly concrete worldly standing: the worthy of offerings — the world's unsurpassed field of merit, for whom, after his passing, a stūpa should be raised. And inside that standing hides a paradox: the one most worthy to receive is precisely the one who wants nothing. Part Five's second chapter looks at this last face, and gathers the book's five faces back to one seal.
+
+First, go and meet the arrow.
