@@ -7,7 +7,7 @@
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: ✅ **Written** — P01–P10 全十篇成稿（六部）。本分區為證軸之末分區，P10 並收行證兩軸之妙覺接縫。
+- **Status**: ✅ **Complete** — P01–P10 全十篇成稿（六部）＋成書單行本（bilingual），中文 / English。本分區為證軸之末分區，P10 並收行證兩軸之妙覺接縫。
 
 ### Published Papers
 
@@ -32,6 +32,15 @@
 **Part 6 — 十自在大涅槃無住處圓滿 · The Perfected Freedom**
 - **P09** [如來十自在與常樂我淨](./papers/part6_the-perfected-freedom/P09_如來十自在與常樂我淨.md) / [The Ten Masteries and Permanence-Bliss-Self-Purity](./papers/part6_the-perfected-freedom/P09_the-ten-masteries-and-permanence-bliss-self-purity.md)
 - **P10** [究竟無住處涅槃](./papers/part6_the-perfected-freedom/P10_究竟無住處涅槃.md) / [The Ultimate Non-Abiding Nirvāṇa](./papers/part6_the-perfected-freedom/P10_the-ultimate-non-abiding-nirvana.md)
+
+---
+
+### Book Edition · 成書《如來自在》
+
+降階改寫自 P01–P10 的單行本（非論文再裝訂），bilingual（中文 / English），收於 [`book/`](./book/)：總序、導讀地圖、六部書章（十章）、五座過渡、附錄 A（學術腳註索引）／C（名相對照）。
+
+- **中文** — [`book/`](./book/)：[總序](./book/00_總序.md) · [導讀地圖](./book/00_導讀地圖.md)
+- **English** — [`book/en/`](./book/en/)：[Preface](./book/en/00_preface.md) · [Reading Map](./book/en/00_reading-map.md)
 
 ---
 
