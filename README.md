@@ -13,7 +13,7 @@
 
 | # | 自在 | Division | 目錄 | 狀態 |
 |---|------|----------|------|------|
-| 1 | 阿羅漢自在 | Arhat's Mastery | [`arhat/`](./arhat/) | ✅ Complete (P01–P08) |
+| 1 | 阿羅漢自在 | Arhat's Mastery | [`arhat/`](./arhat/) | ✅ Complete (P01–P08 ＋ 成書 book) |
 | 2 | 菩薩自在 | Bodhisattva's Mastery | [`bodhisattva/`](./bodhisattva/) | ✅ Complete (P01–P10 ＋ 成書 book) |
 | 3 | 如來自在 | Tathāgata's Mastery | [`tathagata/`](./tathagata/) | ✅ Complete (P01–P10 ＋ 成書 book) |
 
